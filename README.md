@@ -1,3 +1,7 @@
 # project-FE-2
 Project cover 1 vài trang của page Garena Liên Quân Mobile
-CHỉ có các page là trang chủ,tin tức,học viện,ngoài ra còn khi bấm vào mỗi vài viết ở mục tin tức sẽ có trang chi tiết
+Chỉ có các page là 
+  + Trang chủ
+  + Trang tin tức
+  + Trang học viện
+  + Trang chi tiết tin tức ( khi nhấn vào mỗi bài viết ở trang tin tức)
